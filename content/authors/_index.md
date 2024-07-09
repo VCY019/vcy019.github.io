@@ -52,5 +52,4 @@ Ssocial:
   icon_pack: ai
   link: cv/CV.pdf
 
-  
-
+---
